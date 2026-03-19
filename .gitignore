@@ -1,0 +1,17 @@
+# MATLAB cache
+slprj/
+*.slxc
+*.asv
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
